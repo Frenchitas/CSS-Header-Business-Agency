@@ -1,17 +1,17 @@
 # CSS-Header-Business-Agency
-Bienvenido al Proyecto Header-Business-Agency! 🏡🎨 Este proyecto está diseñado para crear un impresionante encabezado arquitectónico con estilo y funcionalidad, optimizado para pantallas de 1200px de ancho.
+Bienvenido al Proyecto Header-Business-Agency! 🏡🎨 This project is designed to create an amazing header with style and functionality. 
 
-## Contenido del Repositorio
-Este repositorio contiene los archivos necesarios para implementar el encabezado arquitectónico. Aquí tienes una descripción rápida de los archivos y carpetas:
+## Repository Content
+This repository contains all the files needed to create the business agency header. Here you have a quick description of the files and folders:
 
-📂 img: Contiene todas las imágenes necesarias para el proyecto.
-📄 index.html: El archivo HTML principal que estructura la página. Html
-📄 style.css: El archivo CSS que define el estilo visual del proyecto. Css
+📂 img: Contains all the images needed for the project.
+📄 index.html: The main HTML file that structure the page. Html
+📄 style.css: The CSS file that defines the visual style of the poject. Css
 
 ![01  Business Agency](https://github.com/Frenchitas/CSS-Header-Business-Agency/assets/134218245/b20b635d-a4f9-4b59-94bb-d38cc453c133)
 
-## Estructura del Proyecto
-El código está organizado de la siguiente manera:
+## Project Structure
+The code is organized as follows:
 
-🧱 HTML (index.html): Define la estructura de la página, desde el encabezado hasta la sección de servicios.
-🎨 CSS (style.css): Establece el estilo visual del proyecto, desde la tipografía hasta el diseño de las secciones.
+🧱 HTML (index.html): Defines the structure of the page.
+🎨 CSS (style.css): Stablish the visual style of the project.
