@@ -1,5 +1,5 @@
 # CSS-Header-Business-Agency
-Bienvenido al Proyecto Header-Business-Agency! 🏡🎨 This project is designed to create an amazing header with style and functionality. 
+Welcome to the Header-Business-Agency Project! 🏡🎨 This project is designed to create an amazing header with style and functionality. 
 
 ## Repository Content
 This repository contains all the files needed to create the business agency header. Here you have a quick description of the files and folders:
