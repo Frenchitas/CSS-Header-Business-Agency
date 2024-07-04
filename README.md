@@ -1,3 +1,4 @@
+![Project Preview](https://github.com/Frenchitas/CSS-Header-Business-Agency/assets/134218245/b20b635d-a4f9-4b59-94bb-d38cc453c133)
 # CSS-Header-Business-Agency
 Welcome to the Header-Business-Agency Project! 🏡🎨 This project is designed to create an amazing header with style and functionality. 
 
@@ -8,7 +9,6 @@ This repository contains all the files needed to create the business agency head
 📄 index.html: The main HTML file that structure the page. Html
 📄 style.css: The CSS file that defines the visual style of the poject. Css
 
-![01  Business Agency](https://github.com/Frenchitas/CSS-Header-Business-Agency/assets/134218245/b20b635d-a4f9-4b59-94bb-d38cc453c133)
 
 ## Project Structure
 The code is organized as follows:
