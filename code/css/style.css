@@ -41,10 +41,6 @@ header nav ul {
   gap: 56px;
 }
 
-header nav ul li {
-
-}
-
 header nav ul a {
   font-family: 'Poppins', sans-serif;
   color: #424241;
@@ -152,8 +148,8 @@ header nav ul a {
 }
 
 .categories article p {
-color: var(--text-and-main-gray-2, #909090);
-    font-family: Poppins;
+  color: var(--text-and-main-gray-2, #909090);
+  font-family: Poppins;
   font-size: 14px;
   font-style: normal;
   font-weight: 400;
